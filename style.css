@@ -1,0 +1,33 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+body {
+    background: url('https://images.unsplash.com/photo-1588421357574-87938a86fa28?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80')100%, no-repeat;
+    background-size: cover;
+}
+.form{
+    align-items: center;
+    left: 50%;
+    position:absolute;
+    top: 50%;
+    transform:translate(-50%,-50%);
+    background: white;
+    border-radius: 10px;
+    padding: 20px 100px;
+}
+.wrapper a {
+    color: black;
+    text-decoration:none;
+}
+.register {
+    
+    align-items: center;
+    left: 50%;
+    position:absolute;
+    top: 50%;
+    transform:translate(-50%,-50%);
+    background: white;
+    border-radius: 10px;
+    padding: 20px 100px;
+   
+}
